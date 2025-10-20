@@ -1,11 +1,13 @@
-[
-   {
-   "email": "happyuser@email.net",
-   "id": 1
- },
+{
+  "users": [
+    {
+    "email": "happyuser@email.net",
+    "id": 1
+    },
 
- {
-   "email": "anotheruser@email.com",
-   "id": 2
- }
-]
+    {  
+    "email": "anotheruser@email.com",
+    "id": 2
+    }
+  ]
+}
